@@ -63,3 +63,8 @@ You can find more information here:
 * [Repository and usage](https://github.com/ingydotnet/git-subrepo)
 * [A good comparison beween subrepo, submodule and
   subtree](https://github.com/ingydotnet/git-subrepo/blob/master/Intro.pod)
+
+
+## License
+
+This project is licensed under the MIT license, see LICENSE file for details.
